@@ -18,7 +18,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto CSS e HTML                                                                                                                                                                                                    |
-| conteúdo | comporte-se como um escritor de artigos Tech em CSS e HTML e escrea o artigo seguindo as regras abaixo {REGRAS} > no maximo 6 linhas por blocos > me explique de maneira inofrmal > os blocos que serao criados estão abaixo: - o que são layouts responsivos do css e html - cite exemplos - cite metodos que podem ser usados - Conclusão - faca um call to action para minhas redes sociais- - coloque 3 hashtags que façam sentido- 
+| conteúdo | comporte-se como um escritor de artigos Tech em CSS e HTML e escrea o artigo seguindo as regras abaixo {REGRAS} > no maximo 6 linhas por blocos > me explique de maneira inofrmal > os blocos que serao criados estão abaixo: - o que são layouts responsivos do css e html - cite exemplos - cite metodos que podem ser usados - Conclusão - faca um call to action para minhas redes sociais- - coloque 3 hashtags que façam sentido 
 
 Lexica.art：
 
