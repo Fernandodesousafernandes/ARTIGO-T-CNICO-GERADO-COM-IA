@@ -1,0 +1,94 @@
+ASSUNTO E TEMA DO ARTIGO
+
+## CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE
+
+* Definir assunto
+	Crie 10 headlines para nomes de artigos sobre o assunto CSS e HTML
+
+* Titulo chamativo: headline
+	"Construindo Layouts Responsivos com HTML5 e CSS3"
+
+* Capa
+	- PowerPoint
+	- lexica.art
+	
+* Blocos do Artigo
+	comporte-se como um escritor de artigos Tech em CSS e HTML e escrea o artigo seguindo as regras abaixo
+
+{REGRAS}
+> no maximo 6 linhas por blocos
+> me explique de maneira inofrmal
+> os blocos que serao criados estão abaixo:
+- o que são layouts responsivos do css e html
+- cite exemplos
+- cite metodos que podem ser usados
+- Conclusão
+- faca um call to action para minhas redes sociais
+- coloque 3 hashtags que façam sentido
+
+
+COMANDOS NO CHATGPT
+
+---Crie 10 headlines para nomes de artigos sobre o assunto CSS e HTML 
+
+chatgpt:
+
+Claro, aqui estão 10 sugestões de títulos para artigos sobre CSS e HTML:
+
+"Dominando Fundamentos: Um Guia Completo de HTML para Iniciantes"
+"CSS Avançado: Dicas e Truques para Estilização Profissional"
+"Construindo Layouts Responsivos com HTML5 e CSS3"
+"Práticas Recomendadas para SEO com HTML e CSS"
+"CSS Grid vs Flexbox: Qual Escolher para Seu Projeto?"
+"Personalizando Formulários HTML com CSS Customizado"
+"Melhores Práticas de Acessibilidade em HTML e CSS"
+"Criando Animações Impressionantes com CSS3"
+"O Poder das Variáveis CSS: Simplificando seu Estilo"
+"HTML Semântico: Escrevendo Código que Importa para SEO e Acessibilidade"
+
+
+Comandos para criar o Bloco
+
+---comporte-se como um escritor de artigos Tech em CSS e HTML e escrea o artigo seguindo as regras abaixo
+
+{REGRAS}
+> no maximo 6 linhas por blocos
+> me explique de maneira inofrmal
+> os blocos que serao criados estão abaixo:
+- o que são layouts responsivos do css e html
+- cite exemplos
+- cite metodos que podem ser usados
+- Conclusão
+- faca um call to action para minhas redes sociais
+- coloque 3 hashtags que façam sentido
+
+
+cahtgpt:
+O que são layouts responsivos do CSS e HTML?
+
+Layouts responsivos são aqueles que se adaptam automaticamente ao tamanho da tela do dispositivo usado pelo usuário, garantindo uma experiência de visualização consistente e amigável em diferentes dispositivos, como celulares, tablets e desktops.
+
+Exemplos de layouts responsivos
+
+Um bom exemplo é o site da Airbnb, onde o conteúdo se reorganiza suavemente para se ajustar à largura da tela, mantendo a usabilidade e a estética. Outro exemplo é o site da Apple, que utiliza grids flexíveis para manter a coerência visual em qualquer dispositivo.
+
+Métodos para criar layouts responsivos
+
+Podemos utilizar media queries para aplicar estilos baseados na largura da tela, grids flexíveis (flexbox) para organizar elementos de forma fluida, e unidades relativas como porcentagens e rem para garantir que os elementos se ajustem proporcionalmente.
+
+Call to action para redes sociais
+
+Curta mais dicas de CSS e HTML seguindo-me no Instagram (@seuusuario) e no Twitter (@seuusuario)! Vamos explorar juntos o mundo do desenvolvimento web!
+
+Conclusão
+
+Em conclusão, os layouts responsivos em CSS e HTML são fundamentais para garantir uma experiência de usuário consistente e eficaz em diferentes dispositivos. Utilizando técnicas como media queries, flexbox e unidades relativas, os desenvolvedores podem criar interfaces que se adaptam de forma inteligente às diversas resoluções de tela. Ao adotar práticas de design responsivo, não apenas melhoramos a acessibilidade e usabilidade do nosso site, mas também proporcionamos uma experiência mais agradável para todos os nossos visitantes. Invista no poder do design responsivo e transforme sua presença online!
+
+Hashtags relevantes
+
+#WebDesignResponsivo #DesenvolvimentoWeb #FrontEnd
+
+
+COMANDOS LEXICA.ART
+
+css e html framework
