@@ -36,3 +36,9 @@ Lexica.art：
 - prompts utilizados
 
 ⌨️ com 💜 por [Fernando de Sousa Fernandes](https://github.com/Fernandodesousafernandes)
+
+
+caminho: https://github.com/Fernandodesousafernandes/ARTIGO-TECNICO-GERADO-COM-IA
+
+https://web.dio.me/articles/construindo-layouts-responsivos-com-html5-e-css3?back=%2Farticles&page=1&order=oldest
+
